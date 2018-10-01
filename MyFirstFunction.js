@@ -14,3 +14,10 @@ function anotherTest(){
 function addTest(x, y){
   return x + y;  
 }
+
+//This is my Fourth Function
+var firstNumber = 1;
+var secondNumber = 2;
+function subtractTest(){
+  console.log(secondNumber - firstNumber);
+}
