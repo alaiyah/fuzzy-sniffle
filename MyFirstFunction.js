@@ -9,3 +9,8 @@ function test() {
 function anotherTest(){
   console.log('This is another test!');
 }
+
+//This is my Third Function
+function addTest(x, y){
+  return x + y;  
+}
